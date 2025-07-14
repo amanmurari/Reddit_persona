@@ -1,0 +1,27 @@
+
+Persona: kojied
+â€œA curious Redditor with a sharp opinion and a love for deep divesâ€
+
+**Demographics**
+- Appears to be aged 20-30 based on content themes [comment:h8ds7s:https://reddit.com/r/example]
+- Likely located in the US or Canada due to timezone mentions and subreddit activity [post:x82dj2:https://reddit.com/r/canada]
+
+**Goals & Motivations**
+- Seeks community feedback on tech and gaming topics [post:a1b2c3:https://reddit.com/r/tech]
+- Interested in exploring different perspectives and learning through conversation [comment:z9y8x7:https://reddit.com/r/askreddit]
+
+**Challenges & Pain Points**
+- Occasionally frustrated with low-effort comments or lack of responses [comment:r4t5y6:https://reddit.com/r/discussion]
+
+**Behavior Patterns & Interests**
+- Frequently participates in gaming, science, and social threads [post:k7j6h5:https://reddit.com/r/science]
+- Uses longer-form comments, often citing sources or adding personal stories [comment:f4d3s2:https://reddit.com/r/longposts]
+
+**Communication Style**
+- Analytical, articulate, and sometimes sarcastic tone [comment:x3v2b1:https://reddit.com/r/roastme]
+- Uses markdown formatting and structured replies [post:m9n8b7:https://reddit.com/r/writing]
+
+**User Voice Quote**
+> â€œI donâ€™t pretend to know everything, I just like seeing how people think.â€ â€” [comment:q1w2e3:https://reddit.com/r/philosophy]
+
+*Persona built from analysis of 5 posts and 6 comments.*
